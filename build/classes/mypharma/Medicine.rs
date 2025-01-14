@@ -1,0 +1,2 @@
+myPharma.Medicine
+mypharma.MyPharma

@@ -1,0 +1,2 @@
+myPharma.Main
+Pharmacy.Main
