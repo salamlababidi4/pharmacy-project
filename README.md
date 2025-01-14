@@ -1,5 +1,5 @@
-# Pharmacy Medicine Tracker Application in Java
-This application helps local pharmacies manage and track medicines efficiently. It handles two types: Over-the-Counter (OTC) and Prescription Medicines. Features include inventory management, categorization, search, and compliance tracking. It ensures smooth operations, regulatory adherence, and better customer service. 
+# Pharmacy Medicine Tracker Application
+This application, coded with Java, helps local pharmacies manage and track medicines efficiently. It handles two types: Over-the-Counter (OTC) and Prescription Medicines. Features include inventory management, categorization, search, and compliance tracking. It ensures smooth operations, regulatory adherence, and better customer service. 
 
 This project is an object-oriented application designed to help local pharmacies efficiently manage their medicine inventory and operations. The system tracks two types of medicines:  
 
